@@ -14,6 +14,8 @@ When people ask, *“what is Elasticsearch?”,* some may answer that:
 
 Depending on your level of familiarity with this technology, these answers may either bring you closer to an ah-ha moment or further confuse you. But the truth is, all of these answers are correct and that’s part of the appeal of Elasticsearch.
 
+![elk](https://github.com/exajobs/elasticsearch-collection/blob/main/img/ELK.png)
+
 ## Table of contents
 
 ## Elastic Stack
