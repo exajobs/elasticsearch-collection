@@ -16,6 +16,8 @@ Depending on your level of familiarity with this technology, these answers may e
 
 ![elk](https://github.com/exajobs/elasticsearch-collection/blob/main/img/ELK.png)
 
+- Elasticsearch is a distributed, open-source search and analytics engine built on Apache Lucene and developed in Java. It started as a scalable version of the Lucene open-source search framework then added the ability to horizontally scale Lucene indices. Elasticsearch allows you to store, search, and analyze huge volumes of data quickly and in near real-time and give back answers in milliseconds. 
+
 ## Table of contents
 
 ## Elastic Stack
