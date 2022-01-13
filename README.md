@@ -20,7 +20,7 @@ Depending on your level of familiarity with this technology, these answers may e
 
 ## Table of contents
 
-## Elastic Stack
+## Elastic Stack 
 * [Elasticsearch](https://www.elastic.co/) official website 
 * [Logstash](https://www.elastic.co/products/logstash) is a data pipeline that helps you process logs and other event data from a variety of systems
 * [Kibana](https://www.elastic.co/products/kibana) is a data analysis tool that helps to visualize your data; [Kibana Manual docs](https://www.elastic.co/guide/en/kibana/current/discover.html)
@@ -137,6 +137,9 @@ Depending on your level of familiarity with this technology, these answers may e
 * [$$ Elasticsearch 7 and Elastic Stack](https://www.manning.com/livevideo/elasticsearch-7-and-elastic-stack) - liveVideo course that teaches you to search, analyze, and visualize big data on a cluster with Elasticsearch, Logstash, Beats, Kibana, and more.
 
 ## Articles
+* [Elasticsearch Intro](https://www.knowi.com/blog/what-is-elastic-search/) - Elasticsearch: What it is, How it works, and what it’s used for.
+
+
 ## System configuration
 * [A Useful Elasticsearch Cheat Sheet in Times of Trouble](http://logz.io/blog/elasticsearch-cheat-sheet/)
 * [The definitive guide for Elasticsearch on Windows Azure](http://code972.com/blog/2014/07/74-the-definitive-guide-for-elasticsearch-on-windows-azure)
