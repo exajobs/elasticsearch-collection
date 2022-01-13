@@ -2,7 +2,9 @@
 > Welcome To The World of Elastic search Collection®. A collection of awesome software, libraries, documents, books, resources and cool stuff about ELK Stack.
 > Thanks to our daily readers and contributoprs. The goal is to build a categorized community-driven collection of very well-known resources. Sharing, suggestions and contributions are always welcome!
 
+## What is ElasticSearch?
 
+* When people ask, *“what is Elasticsearch?”,* some may answer that it’s **“an index”, “a search engine”, an “analytics database”, “a big data solution”, that “it’s fast and scalable”,** or that “it’s kind of like Google”. Depending on your level of familiarity with this technology, these answers may either bring you closer to an ah-ha moment or further confuse you. But the truth is, all of these answers are correct and that’s part of the appeal of Elasticsearch.
 
 ## Table of contents
 
