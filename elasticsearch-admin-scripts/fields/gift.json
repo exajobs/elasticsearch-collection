@@ -1,0 +1,38 @@
+{
+    "properties": {
+      "gifts": {
+        "type": "nested",
+        "properties": {
+          "id": {
+            "type": "keyword",
+            "index": "true"
+          },
+          "amount": {
+            "type": "long"
+          },
+          "gift_type": {
+            "type": "keyword",
+            "index": "true"
+          },
+          "frequency":{
+            "type": "keyword",
+            "index": "true"
+          },
+          "scheduled": {
+            "type": "date",
+            "format": "yyyy/MM/dd HH:mm:ss||yyyy/MM/dd HH:mm||yyyy-MM-dd||epoch_millis"
+          },
+          "gift_date": {
+            "type": "date",
+            "format": "yyyy/MM/dd HH:mm:ss||yyyy/MM/dd HH:mm||yyyy-MM-dd||epoch_millis"
+          },
+          "campaign_id": {
+            "type": "long"
+          },
+          "form_id": {
+            "type": "long"
+          }
+        }
+      }
+    }
+}
