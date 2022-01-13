@@ -5,10 +5,10 @@
 ## What is ElasticSearch?
 
 When people ask, *“what is Elasticsearch?”,* some may answer that:
-*  it’s “an index”, 
-*  “a search engine”, 
-*  an “analytics database”, 
-*  “a big data solution”, 
+*  It’s “an index”, 
+*  A "search engine”, 
+*  An “Analytics database”, 
+*  A "big data solution”, 
 *  that “it’s fast and scalable”,
 *  or that “it’s kind of like Google”. 
 
