@@ -16,13 +16,13 @@ When people ask, *“what is Elasticsearch?”,* some may answer that:
 
 ![elk](https://github.com/exajobs/elasticsearch-collection/blob/main/img/ELK.png)
 
-- Elasticsearch is a distributed, open-source search and analytics engine built on Apache Lucene and developed in Java. . It was developed in Java and is designed to operate in real time. It can search and index document files in diverse formats. It was designed to be used in distributed environments by providing flexibility and scalability. Now, Elasticsearch is a widely popular enterprise search engine. Elasticsearch allows you to store, search, and analyze huge volumes of data quickly and in near real-time and give back answers in milliseconds. 
+- [Elasticsearch](https://blog.avenuecode.com/elasticsearch) is a distributed, open-source search and analytics engine built on Apache Lucene and developed in Java. . It was developed in Java and is designed to operate in real time. It can search and index document files in diverse formats. It was designed to be used in distributed environments by providing flexibility and scalability. Now, Elasticsearch is a widely popular enterprise search engine. Elasticsearch allows you to store, search, and analyze huge volumes of data quickly and in near real-time and give back answers in milliseconds. 
 
 ### How does it work?
 
 To help understand how Elasticsearch handles data, we can make an analogy to a database.
 
-Elasticsearch stores the data using the "schema-less" concept. This means that it is not necessary to define the structure of the data that will be entered in advance, as happens with relational databases known in the market: Oracle, MySQL, and SQLServer, among others.
+- Elasticsearch stores the data using the "schema-less" concept. This means that it is not necessary to define the structure of the data that will be entered in advance, as happens with relational databases known in the market: Oracle, MySQL, and SQLServer, among others.
 
 In our analogy of traditional relational databases, the structure of the data used by Elasticsearch would be:
 
