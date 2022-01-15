@@ -12,13 +12,24 @@ When people ask, *“what is Elasticsearch?”,* some may answer that:
 *  that “it’s fast and scalable”,
 *  or that “it’s kind of like Google”. 
 
-Depending on your level of familiarity with this technology, these answers may either bring you closer to an ah-ha moment or further confuse you. But the truth is, all of these answers are correct and that’s part of the appeal of Elasticsearch.
+- **Elasticsearch is simple to configure, has incredible flexibility, and is an excellent tool for complex searches**. Let's take a closer look. Depending on your level of familiarity with this technology, these answers may either bring you closer to an ah-ha moment or further confuse you. But the truth is, all of these answers are correct and that’s part of the appeal of Elasticsearch.
 
 ![elk](https://github.com/exajobs/elasticsearch-collection/blob/main/img/ELK.png)
 
-- Elasticsearch is a distributed, open-source search and analytics engine built on Apache Lucene and developed in Java. It started as a scalable version of the Lucene open-source search framework then added the ability to horizontally scale Lucene indices. Elasticsearch allows you to store, search, and analyze huge volumes of data quickly and in near real-time and give back answers in milliseconds. 
+- Elasticsearch is a distributed, open-source search and analytics engine built on Apache Lucene and developed in Java. . It was developed in Java and is designed to operate in real time. It can search and index document files in diverse formats. It was designed to be used in distributed environments by providing flexibility and scalability. Now, Elasticsearch is a widely popular enterprise search engine. Elasticsearch allows you to store, search, and analyze huge volumes of data quickly and in near real-time and give back answers in milliseconds. 
+
+How does it work?
+
+To help understand how Elasticsearch handles data, we can make an analogy to a database.
+
+Elasticsearch stores the data using the "schema-less" concept. This means that it is not necessary to define the structure of the data that will be entered in advance, as happens with relational databases known in the market: Oracle, MySQL, and SQLServer, among others.
+
+In our analogy of traditional relational databases, the structure of the data used by Elasticsearch would be:
+
 
 ## Table of contents
+- [Elasticsearch Intorduction](what-is-elastic-search)
+- [Elastic Stack](#elastic-stack)
 
 ## Elastic Stack 
 * [Elasticsearch](https://www.elastic.co/) official website 
