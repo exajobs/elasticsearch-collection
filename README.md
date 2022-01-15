@@ -35,10 +35,10 @@ In our analogy of traditional relational databases, the structure of the data us
 
 ![shards](https://github.com/exajobs/elasticsearch-collection/blob/main/img/2.png)
 
-**Cluster:** - A cluster is a collection of one or more servers that together hold entire data and give federated indexing and search capabilities across all servers. For relational databases, the node is DB Instance. There can be N nodes with the same cluster name.
-**Node:** - A node is a single server that holds some data and participates in the cluster’s indexing and querying. A node can be configured to join a specific cluster by the particular cluster name. A single cluster can have as many nodes as we want. A node is simply one Elasticsearch instance.
-**Shard** - A shard is a subset of documents of an index. An index can be divided into many shards.
-**Replica Shard:** - The main purpose of replicas is for failover: if the node holding a primary shard dies, a replica is promoted to the role of primary; replica shard is the copy of primary shard and serves to prevent data loss in case of hardware failure.
+- **Cluster:** - A cluster is a collection of one or more servers that together hold entire data and give federated indexing and search capabilities across all servers. For relational databases, the node is DB Instance. There can be N nodes with the same cluster name.
+- **Node:** - A node is a single server that holds some data and participates in the cluster’s indexing and querying. A node can be configured to join a specific cluster by the particular cluster name. A single cluster can have as many nodes as we want. A node is simply one Elasticsearch instance.
+- **Shard** - A shard is a subset of documents of an index. An index can be divided into many shards.
+- **Replica Shard:** - The main purpose of replicas is for failover: if the node holding a primary shard dies, a replica is promoted to the role of primary; replica shard is the copy of primary shard and serves to prevent data loss in case of hardware failure.
 
 
 ## Table of contents
