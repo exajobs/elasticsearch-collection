@@ -26,6 +26,15 @@ Elasticsearch stores the data using the "schema-less" concept. This means that i
 
 In our analogy of traditional relational databases, the structure of the data used by Elasticsearch would be:
 
+[analogy](https://github.com/exajobs/elasticsearch-collection/blob/main/img/4.png)
+
+- **Indexes:** -The index is a collection of documents that have similar characteristics
+- **Type:** - A type in Elasticsearch represents a class of similar documents. A type consists of a name—such as user or blog post—and a mapping.
+- **Documents:** - A document in Lucene consists of a simple list of field-value pairs. A field must have at least one value, but any field can contain multiple values.
+- **Fields:** - Are columns in Elasticsearch.
+
+
+
 
 ## Table of contents
 - [Elasticsearch Intorduction](what-is-elastic-search)
