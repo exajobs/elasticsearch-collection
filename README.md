@@ -46,7 +46,7 @@ In our analogy of traditional relational databases, the structure of the data us
 ## `Table of contents`
 - [Elasticsearch Introduction](#what-is-elastic-search)
 - Elasticsearch Architecture
-  - Indices
+  - [Indices](#indices)
   - Types
   - Documents
   - Fields
@@ -66,7 +66,7 @@ In our analogy of traditional relational databases, the structure of the data us
 
 ## `Elastic Architecture`
 
-### Indices
+### `Indices`
 Indices, the largest unit of data in Elasticsearch, are logical partitions of documents and can be compared to a database in the world of relational databases.
 
 Continuing our e-commerce app example, you could have one index containing all of the data related to the products and another with all of the data related to the customers.
