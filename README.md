@@ -54,6 +54,7 @@ In our analogy of traditional relational databases, the structure of the data us
   - Cluster
   - Shard
   - Replica Shards
+- [Elasticsearch Queries](#elasticsearch-queries)
 - APIs
 - [Elastic Stack](#elastic-stack)  
   -  Kibana
@@ -75,6 +76,17 @@ You can have as many indices defined in Elasticsearch as you want. These in turn
 For a list of best practices in handling indices, check out the blog Managing an Elasticsearch Index. Another key element to getting how Elasticsearch’s indices work is to get a handle on shards.
 
  - [Best Practices for Managing Elasticsearch Indices](https://logz.io/blog/managing-elasticsearch-indices/) - Understanding indices
+
+
+
+
+## APIs
+
+
+##  Elasticsearch Queries
+Elasticsearch provides a full Query DSL (Domain Specific Language) based on JSON to define queries. Think of the Query DSL as an AST (Abstract Syntax Tree) of queries, consisting of two types of clauses:
+
+![queries](https://github.com/exajobs/elasticsearch-collection/blob/main/img/5-queries.png)
 
 
 ## `Elastic Stack`
