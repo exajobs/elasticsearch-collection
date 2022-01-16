@@ -28,7 +28,7 @@ In our analogy of traditional relational databases, the structure of the data us
 
 ![analogy](https://github.com/exajobs/elasticsearch-collection/blob/main/img/4.png)
 
-- **Indexes:** - Indices, the largest unit of data in Elasticsearch, are logical partitions of documents and can be compared to a database in the world of relational databases.
+- **Index:** - Indices, the largest unit of data in Elasticsearch, are logical partitions of documents and can be compared to a database in the world of relational databases. More on [indices](#indices)
 ![analogy](https://github.com/exajobs/elasticsearch-collection/blob/main/img/3.png)
 
 - **Type:** - A type in Elasticsearch represents a class of similar documents. A type consists of a name—such as user or blog post—and a mapping.
@@ -44,8 +44,24 @@ In our analogy of traditional relational databases, the structure of the data us
 
 
 ## `Table of contents`
-- [Elasticsearch Intorduction](what-is-elastic-search)
-- [Elastic Stack](#elastic-stack)
+- [Elasticsearch Introduction](what-is-elastic-search)
+- Elasticsearch Architecture
+  - Indices
+  - Types
+  - Documents
+  - Fields
+  - Cluster
+  - Shard
+  - Replica Shards
+- APIs
+- [Elastic Stack](#elastic-stack)  
+  -  Kibana
+  -  Beats
+  -  Logstash
+- Books
+- Certifications
+- Elasticsearch developer tools and utilities
+- Elasticsearch Use cases
 
 ## `Elastic Stack`
 * [Elasticsearch](https://www.elastic.co/) official website 
