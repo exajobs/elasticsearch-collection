@@ -2,7 +2,7 @@
 > Welcome To The World of Elastic search Collection®. A collection of awesome software, libraries, documents, books, resources and cool stuff about ELK Stack.
 > Thanks to our daily readers and contributors. The goal is to build a categorized community-driven collection of very well-known resources. Sharing, suggestions and contributions are always welcome!
 
-## What is ElasticSearch?
+## `What is ElasticSearch?`
 
 When people ask, *“what is Elasticsearch?”,* some may answer that:
 *  It’s “an index”, 
@@ -18,7 +18,7 @@ When people ask, *“what is Elasticsearch?”,* some may answer that:
 
 - [Elasticsearch](https://blog.avenuecode.com/elasticsearch) is a distributed, open-source search and analytics engine built on Apache Lucene and developed in Java. . It was developed in Java and is designed to operate in real time. It can search and index document files in diverse formats. It was designed to be used in distributed environments by providing flexibility and scalability. Now, Elasticsearch is a widely popular enterprise search engine. Elasticsearch allows you to store, search, and analyze huge volumes of data quickly and in near real-time and give back answers in milliseconds. 
 
-### How does it work?
+### `How does it work?`
 
 To help understand how Elasticsearch handles data, we can make an analogy to a database.
 
@@ -41,23 +41,23 @@ In our analogy of traditional relational databases, the structure of the data us
 - **Replica Shard:** - The main purpose of replicas is for failover: if the node holding a primary shard dies, a replica is promoted to the role of primary; replica shard is the copy of primary shard and serves to prevent data loss in case of hardware failure.
 
 
-## Table of contents
+## `Table of contents`
 - [Elasticsearch Intorduction](what-is-elastic-search)
 - [Elastic Stack](#elastic-stack)
 
-## Elastic Stack 
+## `Elastic Stack`
 * [Elasticsearch](https://www.elastic.co/) official website 
 * [Logstash](https://www.elastic.co/products/logstash) is a data pipeline that helps you process logs and other event data from a variety of systems
 * [Kibana](https://www.elastic.co/products/kibana) is a data analysis tool that helps to visualize your data; [Kibana Manual docs](https://www.elastic.co/guide/en/kibana/current/discover.html)
 * [beats](https://www.elastic.co/products/beats) is the platform for building lightweight, open source data shippers for many types of data you want to enrich with Logstash, search and analyze in Elasticsearch, and visualize in Kibana. 
 
-## Books
+## `Books`
 * [Deep Learning for Search](https://www.manning.com/books/deep-learning-for-search) - teaches you how to leverage neural networks, NLP, and deep learning techniques to improve search performance. (2019)
 * [Relevant Search: with applications for Solr and Elasticsearch](https://www.manning.com/books/relevant-search) - demystifies relevance work. Using Elasticsearch, it teaches you how to return engaging search results to your users, helping you understand and leverage the internals of Lucene-based search engines. (2016) 
 * [Elasticsearch in Action](https://www.manning.com/books/elasticsearch-in-action) - teaches you how to build scalable search applications using Elasticsearch (2015)
 * [Elasticsearch in Action, Second edition](https://www.manning.com/books/elasticsearch-in-action-second-edition) - hands-on guide to developing fully functional search engines with Elasticsearch and Kibana. (2021)
 
-## Certifications
+## `Certifications`
 ### Elastic Certified Engineer
 * [Elastic Certified Engineer notes](https://www.pistocop.dev/posts/es_engineer_exam_notes/) - notes and exercises to prepare the certification exam
 
