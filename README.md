@@ -28,7 +28,7 @@ In our analogy of traditional relational databases, the structure of the data us
 
 ![analogy](https://github.com/exajobs/elasticsearch-collection/blob/main/img/4.png)
 
-- **Indexes:** -The index is a collection of documents that have similar characteristics
+- **Indexes:** - Indices, the largest unit of data in Elasticsearch, are logical partitions of documents and can be compared to a database in the world of relational databases.
 ![analogy](https://github.com/exajobs/elasticsearch-collection/blob/main/img/3.png)
 
 - **Type:** - A type in Elasticsearch represents a class of similar documents. A type consists of a name—such as user or blog post—and a mapping.
