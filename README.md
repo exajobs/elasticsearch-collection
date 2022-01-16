@@ -80,7 +80,7 @@ For a list of best practices in handling indices, check out the blog Managing an
 
 Another key element to getting how Elasticsearch’s indices work is to get a handle on shards.
 
- - [Best Practices for Managing Elasticsearch Indices](#https://logz.io/blog/managing-elasticsearch-indices/) - Understanding indices
+ - [Best Practices for Managing Elasticsearch Indices](https://logz.io/blog/managing-elasticsearch-indices/) - Understanding indices
 
 
 ## `Elastic Stack`
