@@ -7,7 +7,7 @@
 When people ask, *“what is Elasticsearch?”,* some may answer that:
 *  It’s “an index”, 
 *  A "search engine”, 
-*  An “Analytics database”, 
+*  An “analytics database”, 
 *  A "big data solution”, 
 *  that “it’s fast and scalable”,
 *  or that “it’s kind of like Google”. 
