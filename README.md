@@ -12,7 +12,8 @@ When people ask, *“what is Elasticsearch?”,* some may answer that:
 *  that “it’s fast and scalable”,
 *  or that “it’s kind of like Google”. 
 
-- **Elasticsearch is simple to configure, has incredible flexibility, and is an excellent tool for complex searches**. Let's take a closer look. Depending on your level of familiarity with this technology, these answers may either bring you closer to an ah-ha moment or further confuse you. But the truth is, all of these answers are correct and that’s part of the appeal of Elasticsearch.
+- **Elasticsearch is simple to configure, has incredible flexibility, and is an excellent tool for complex searches**. Let's take a closer look. 
+> Depending on your level of familiarity with this technology, these answers may either bring you closer to an ah-ha moment or further confuse you. But the truth is, all of these answers are correct and that’s part of the appeal of Elasticsearch.
 
 ![elk](https://github.com/exajobs/elasticsearch-collection/blob/main/img/ELK.png)
 
