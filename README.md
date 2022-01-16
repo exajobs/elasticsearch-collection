@@ -71,14 +71,8 @@ In our analogy of traditional relational databases, the structure of the data us
 Indices, the largest unit of data in Elasticsearch, are logical partitions of documents and can be compared to a database in the world of relational databases.
 
 Continuing our e-commerce app example, you could have one index containing all of the data related to the products and another with all of the data related to the customers.
-
-You can have as many indices defined in Elasticsearch as you want. These in turn will hold documents that are unique to each index.
-
-Indices are identified by lowercase names that refer to actions that are performed actions (such as searching and deleting) on the documents that are inside each index.
-
-For a list of best practices in handling indices, check out the blog Managing an Elasticsearch Index. 
-
-Another key element to getting how Elasticsearch’s indices work is to get a handle on shards.
+You can have as many indices defined in Elasticsearch as you want. These in turn will hold documents that are unique to each index. Indices are identified by lowercase names that refer to actions that are performed actions (such as searching and deleting) on the documents that are inside each index.
+For a list of best practices in handling indices, check out the blog Managing an Elasticsearch Index. Another key element to getting how Elasticsearch’s indices work is to get a handle on shards.
 
  - [Best Practices for Managing Elasticsearch Indices](https://logz.io/blog/managing-elasticsearch-indices/) - Understanding indices
 
