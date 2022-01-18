@@ -1,6 +1,7 @@
-My Elasticsearch cheatsheet with example usage via rest api (still a work-in-progress)
+# Elasticsearch Commands
+> An ongoing curated list of elasticsearch commands
 
-# Shortlinks:
+## Shortlinks:
 
 - [Cluster Health](#cluster-health)
   - [Index Level](#cluster-health-index-level)
